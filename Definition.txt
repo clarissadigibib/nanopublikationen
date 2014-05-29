@@ -1,3 +1,18 @@
-# Definition
+## Definition
+Eine Nanopublikation ist eine sehr kleine Publikation, ja sie ist die kleinste Einheit publizierbarer Informationen. Sie beinhaltet genau eine Behauptung zu einem beliebigen Thema, die eindeutig identifiziert und zum Autor zurückverfolgt werden kann. Dadurch können einzelne Nanopublikationen auch zitiert werden.  Sie sind für jeden zugänglich, d.h. sie sind im Open Access zu finden.  
+Das Besondere an den Nanopublikationen ist, dass sie so aufbereitet werden, dass sie maschinenlesbar sind. Sie werden alle einheitlich strukturiert, sodass eine serienmäßige Verarbeitung möglich ist.  Mit Hilfe des Ressource Description Framework Standards (RDF) kann die Veröffentlichung auch technisch umgesetzt werden.  Das RDF-Modell ist mittlerweile ein Grundbaustein des semantischen Webs und sieht vor, dass alle Aussagen aus drei Einheiten bestehen: Subjekt, Prädikat und Objekt. Dadurch bilden diese drei Einheiten ein Tripel (3-Tupel). 
+Die Nanopublikationen haben einen ganz bestimmten Aufbau. Es gibt eine gewisse Struktur, die typisch für sie ist, wodurch sie eigentlich ihren Charakter erst erhalten. So besteht eine Nanopublikation im Allgemeinen aus drei Grundelementen: 
 
-Write here...
+- Die Behauptung: ist eine minimale Einheit des Denkens, eine Aussage, die eine Beziehung zwischen zwei Konzepten (Subjekt und Objekt) mit Hilfe von einem dritten Konzept (Prädikat) ausdrückt.
+- Die Bedingung: sie enthält Metadaten bezüglich der Bedingungen, unter denen die Behauptung zum tragen kommt.
+- Die Herkunft: sie enthält Metadaten bezüglich der Herkunft. Dies sind unterstützende Metadaten wie z.B. Methoden und zuordnende Metadaten wie z.B. Autor, Intitution, Zeitstempel, URL, usw.
+
+Die folgende Grafik zeigt, wie eine Nanopublikation generell aufgebaut sein kann:
+![Nanopublikation-Format.jpg](images/Nanopublikation-Format.jpg)
+
+Für die Erstellung einer Nanopublikation gibt es einige Grundsätze, die beachtet werden sollten:
+
+- Der Mehrwert: die Behauptung in einer Nanopublikation ergibt sich aus einem gut dokumentierten Verfahren bzw. Beobachtung. 
+- Die Transparenz: die Herkunft und die Bedingungen beziehen sich auf das wer, was, wo und wann des Prädikats, damit die Qualität der Nanopublikationen auch von anderen beurteilt werden kann.
+- Das Vermeiden von Mehrdeutigkeit: alle Teile, seien es die Behauptung, die Bedingungen oder die Herkunft, müssen eindeutig sein.
+- Die einheitliche Referenz: bei den Nanopublikationen, bei denen Daten wie die Behörde, der Namensraum, das Eintrittsdatum und die Version schon im Netz vorhanden sind, sollte der Unique Resource Identifier (URI) verwendet werden. Wenn noch keine URI existiert, kann ein Universal and Unique Identifier (UUID) mit Hilfe von ConceptWiki erzeugt werden.
