@@ -7,3 +7,4 @@ chapter3.txt
 Definition.txt
 Herkunft.txt
 Verbreitung.txt
+Beispiele.txt
