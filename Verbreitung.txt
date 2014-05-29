@@ -1,3 +1,2 @@
-# Verbreitung
-
-Write here...
+## Verbreitung
+Da Nanopublikationen noch nicht so sehr alt sind, sind sie auch noch nicht so weit verbreitet. Ursprünglich wurden sie vom CWA im medizinischen Bereich entwickelt und kamen dann bei OpenPHACTS auch genau in diesem Bereich zum ersten Mal zur Anwendung. Auch heute werden die Nanopublikationen noch in den meisten Fällen im medizinischen und pharmazeutischen Bereich genutzt. Sie sind z.B. für DNA-Sequenzen sehr gut geeignet oder auch Formeln aus der Pharmazie. Auch in der Biologie werden die Nanopublikationen angewendet. Sie erleichtern das Publizieren von wichtigen Informationen aus allen wissenschaftlichen Disziplinen durch kurze Behauptungen, auf die dann zurück gegriffen werden kann.
