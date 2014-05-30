@@ -1,12 +1,8 @@
 > These files will be included in your book:
 
-About.txt
-chapter1.txt
-chapter2.txt
-chapter3.txt
 Definition.txt
 Herkunft.txt
 Verbreitung.txt
-Beispiele.txt
 Pers-nliche-Einsch-tzung.txt
+Beispiele.txt
 Literaturverzeichnis.txt
