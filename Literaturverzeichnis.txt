@@ -1,4 +1,4 @@
-# Literaturverzeichnis
+## Literaturverzeichnis
 
 @article {paulgroth;andrewgibson;janvelterop2010,
     author  = {Groth, Paul; Gibson, Andrew; Velterop, Jan},
