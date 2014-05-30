@@ -9,3 +9,4 @@ Herkunft.txt
 Verbreitung.txt
 Beispiele.txt
 Pers-nliche-Einsch-tzung.txt
+Literaturverzeichnis.txt
