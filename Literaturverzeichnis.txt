@@ -1,3 +1,12 @@
 # Literaturverzeichnis
-
-Write here...
+@ARTICLE {paulgroth;andrewgibson;janvelterop2010,
+    author  = {Groth, Paul; Gibson, Andrew; Velterop, Jan},
+    title   = {The anatomy of a nanopublication},
+    journal = {Information Services and Use},
+    year    = {2010},
+    volume  = {30},
+    number  = {1-2},
+    pages   = {51-56},
+    month   = {jan},
+    note    = {Der Aufbau von Nanopublikationen wird aufgezeigt.}
+}
